@@ -1,0 +1,37 @@
+unit t7;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    batata: TEdit;
+    chuchu: TButton;
+    Button1: TButton;
+    b6: TButton;
+    b3: TButton;
+    b9: TButton;
+    b2: TButton;
+    b1: TButton;
+    b8: TButton;
+    b5: TButton;
+    b0: TButton;
+    b7: TButton;
+    b4: TButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+end.
