@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/30 13:04:35.000.738,=C:\Users\dprech1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/30 13:47:21.000.521,C:\Users\dprech1\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\dprech1\Desktop\trabalho conversor de moeda\Unit1.pas</Transaction>
+    <Transaction>2019/05/30 13:47:21.000.521,C:\Users\dprech1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\dprech1\Desktop\trabalho conversor de moeda\Unit1.dfm</Transaction>
+    <Transaction>2019/05/30 13:47:23.000.433,C:\Users\dprech1\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\dprech1\Desktop\trabalho conversor de moeda\Project1.dproj</Transaction>
+    <Transaction>2019/05/30 15:29:30.198,C:\Users\dprech1\Desktop\trabalho de troca de dinhairo\Project1.dproj=C:\Users\dprech1\Desktop\trabalho conversor de moeda\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
